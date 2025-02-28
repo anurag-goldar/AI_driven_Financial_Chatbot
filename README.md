@@ -40,7 +40,7 @@ This repository showcases my completion of **BCG's GenAI Consulting** simulation
 - Deploy as a **web-based AI assistant**.
 
 ## 🤝 Connect with Me
-💼 [LinkedIn](#) | 🐙 [GitHub](#) | ✉️ [Email](#)
+💼 https://www.linkedin.com/in/anurag-goldar-504302203/ | ✉️ anurag.goldar123@gmail.com
 
 ---
 🛠 **Developed as part of BCG's GenAI Consulting Simulation on Forage** 🚀
